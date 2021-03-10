@@ -1,0 +1,4 @@
+baseURL = "http://fahadtoqir.github.io/Blog-Projecte5/"
+languageCode = "en-us"
+title = "Blog Projecte5 M7"
+theme = "ananke"
