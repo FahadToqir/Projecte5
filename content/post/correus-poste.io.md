@@ -1,6 +1,6 @@
 ---
-title: "Correus Poste"
+title: "Poste.io"
 date: 2021-03-10T16:26:23+01:00
-draft: false
 ---
+Aqui explicare com es crea un correu i un domini amb Poste.io
 
