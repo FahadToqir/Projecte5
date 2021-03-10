@@ -6,9 +6,19 @@
     <description>Recent content on Blog Projecte5 M7</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2021 16:26:23 +0100</lastBuildDate>
     
 	<atom:link href="https://fahadtoqir.github.io/Projecte5/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Correus Poste</title>
+      <link>https://fahadtoqir.github.io/Projecte5/posts/correus-poste.io/</link>
+      <pubDate>Wed, 10 Mar 2021 16:26:23 +0100</pubDate>
+      
+      <guid>https://fahadtoqir.github.io/Projecte5/posts/correus-poste.io/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
