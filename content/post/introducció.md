@@ -1,6 +1,7 @@
 ---
 title: "Introducció"
 date: 2021-03-10T16:26:01+01:00
-draft: true
 ---
+En aquest blog explicare com es crea un mail i un domini privat amb poste.io.
+
 

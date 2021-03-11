@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Correus Poste</title>
-      <link>https://fahadtoqir.github.io/Projecte5/posts/correus-poste.io/</link>
+      <title>Poste.io</title>
+      <link>https://fahadtoqir.github.io/Projecte5/post/correus-poste.io/</link>
       <pubDate>Wed, 10 Mar 2021 16:26:23 +0100</pubDate>
       
-      <guid>https://fahadtoqir.github.io/Projecte5/posts/correus-poste.io/</guid>
-      <description></description>
+      <guid>https://fahadtoqir.github.io/Projecte5/post/correus-poste.io/</guid>
+      <description>Aqui explicare com es crea un correu i un domini amb Poste.io</description>
+    </item>
+    
+    <item>
+      <title>Introducció</title>
+      <link>https://fahadtoqir.github.io/Projecte5/post/introducci%C3%B3/</link>
+      <pubDate>Wed, 10 Mar 2021 16:26:01 +0100</pubDate>
+      
+      <guid>https://fahadtoqir.github.io/Projecte5/post/introducci%C3%B3/</guid>
+      <description>En aquest blog explicare com es crea un mail i un domini privat amb poste.io.</description>
     </item>
     
   </channel>
